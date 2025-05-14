@@ -1,0 +1,11 @@
+pdfplumber~=0.11.0
+nltk~=3.8.1
+spacy~=3.7.5
+haystack-ai
+transformers
+torch
+IPython
+matplotlib
+textblob
+pyphen
+numpy
