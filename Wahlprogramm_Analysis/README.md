@@ -13,5 +13,3 @@ Die Analyse wurde in drei Teile aufgeteilt:
 1. **Statistische Analyse**
 2. **Sentiment Analyse**
 3. **Chatbot**
-
-Ein inhaltsverzeichnis und eine Angeb der Ressourcen finden Sie um [Notebook](./master.ipynb) `master.ipynb`.
